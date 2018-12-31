@@ -9,7 +9,7 @@ theme = "hugo-theme-cactus-plus"
   twitter = "dangoor"
   enableGoogleAnalytics = false
   enableBaiduAnalytics = false
-  copyright = "Copyright 2001-2016 Kevin Dangoor"
+  copyright = "Copyright 2001-2018 Kevin Dangoor"
 	iconFont = "font-awesome"
 
 [social]
