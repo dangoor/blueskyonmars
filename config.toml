@@ -1,0 +1,17 @@
+url = "http://www.blueskyonmars.com"
+baseurl = "http://www.blueskyonmars.com"
+name = "Blue Sky On Mars"
+description = "Kevin Dangoor on Software Development and More"
+theme = "hugo-theme-cactus-plus"
+
+[params]
+	author = "Kevin Dangoor"
+  twitter = "dangoor"
+  enableGoogleAnalytics = false
+  enableBaiduAnalytics = false
+  copyright = "Copyright 2001-2016 Kevin Dangoor"
+	iconFont = "font-awesome"
+
+[social]
+	twitter-square = "https://www.twitter.com/dangoor"
+	github-square = "https://www.github.com/dangoor"
